@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+
+sanitized
+res/
+out/*.json
+result
+index.json
