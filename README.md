@@ -6,7 +6,9 @@ Can be used to generate recommendations for similar blog posts.
 
 ## Setup
 
-Install requirements from `requirements.txt`
+Requires Python 3.12.
+
+Install requirements from `requirements.txt`:
 
 ```sh
 pip install -r requirements.txt
