@@ -6,6 +6,11 @@ Can be used to generate recommendations for similar blog posts.
 
 ## Setup
 
+```sh
+python -m spacy download en_core_web_lg
+pip install tensorflow_hub
+```
+
 Requires Python 3.12.
 
 Install requirements from `requirements.txt`:

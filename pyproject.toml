@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "similarity"
+version = "0.1.0"
+description = "Aims to calculate the similarity of blog posts"
+
+license = "MIT"
+
+authors = [
+    "Dennis Kawurek <contact@dkwr.de>"
+]
+
+[tool.poetry.dependencies]
+
+python = "^3.12.7"
+nltk = "3.8.1"
+spacy = "3.8.2"
+beautifulsoup4 = "4.12.3"
+tensorflow = "2.18.0"
+tensorflow-hub = "0.16.1"
+numpy = "^2.0.0"
